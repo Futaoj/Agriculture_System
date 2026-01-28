@@ -1,0 +1,5 @@
+{
+  "name": "AgriPredict Pro - 农产品市场价格预测与供应链优化系统",
+  "description": "基于双子座(Gemini)大模型驱动的农产品价格智能预测与供应链决策优化系统，支持Excel数据交互、动态可视化仪表盘及库存管理。",
+  "requestFramePermissions": []
+}
